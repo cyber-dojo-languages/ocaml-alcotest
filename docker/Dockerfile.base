@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/ocaml:cbb41a9
+FROM ghcr.io/cyber-dojo-languages/ocaml:f1cfce2
 LABEL maintainer=jon@jaggersoft.com
 
 COPY install.sh .
